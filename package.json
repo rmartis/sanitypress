@@ -18,6 +18,7 @@
 		"@sanity/dashboard": "^4.1.0",
 		"@sanity/image-url": "^1.1.0",
 		"@sanity/preview-url-secret": "^2.0.5",
+		"@sanity/ui": "^2.10.9",
 		"@sanity/vision": "^3.67.0",
 		"@vercel/analytics": "^1.4.1",
 		"@vercel/speed-insights": "^1.1.0",
